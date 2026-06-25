@@ -1,19 +1,33 @@
-Python Application
-======================
-This is a simple Python application. This application serves as a basic template for a console application using Python.
+# 🌐 Creator Hub – Social Media Platform
 
-What does this application do?
--------------------------------
-This application prints "Hello, World!" to the console.
+**Task 1 | CodeAlpha Virtual Internship**
 
-# How to run?
-You can run the application in one of the following ways:
+Creator Hub is a social media platform that enables users to create profiles, share posts, connect with others, and receive notifications in an interactive online community.
 
-1. Press `F5`. This will start the application in debug mode.
+## 🚀 Features
 
-2. Open a terminal by going to 'View' -> 'Terminal'. Then run:
-    > `python src/main.py`
+* User Authentication (Signup/Login)
+* Profile Management
+* Create and View Posts
+* Friend Requests
+* Notifications System
 
-This will start the application.
+## 🛠️ Tech Stack
 
-Happy coding! 🙂
+* Python
+* Flask
+* MongoDB
+* HTML
+* CSS
+* JavaScript
+
+## 👩‍💻 Developer
+
+**Tanuja Bathineni**
+🎓 2nd Year Student
+💻 Learning Java & Data Structures and Algorithms
+🚀 Building strong problem-solving and full-stack development skills.
+
+## 📌 Internship
+
+Developed as **Task 1** for the **CodeAlpha Virtual Internship Program**, showcasing full-stack web development and database integration skills.
